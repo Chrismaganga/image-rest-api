@@ -22,5 +22,7 @@ This project is an Image Upload API built using Express.js and Neon PostgreSQL a
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/Chrismaganga/image-rest-api
+cd image-rest-api
+
+npm install
